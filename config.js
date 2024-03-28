@@ -9,7 +9,7 @@ import axios from 'axios'
 global.owner = [
   ['918360234087', 'WHITE', true], 
   ['233208179431', 'Abraham Dwamena', true],
-  ['923488652755', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
+  ['923488652755', '𝐔𝐌𝐀𝐑 𝐁𝐀𝐋𝐎𝐂𝐇 -(𝘼𝙝𝙢𝙢𝙞)', true], 
   ['94789481495', '𝐔𝐦𝐚𝐫 𝐊𝐢𝐧𝐠 ⚡', true],
   ['233533763772', 'Abraham Dwamena2', true],
   ['233531910067', 'Abraham Dwamena3', true],
@@ -69,7 +69,7 @@ global.fglog = 'XLICON.jpg'
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
 
-global.wait = '*🕣 _XLICON IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _𝐔𝐌𝐀𝐑 𝐊𝐇𝐀𝐍 IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✔️'
